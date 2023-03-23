@@ -9,28 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f103056f-5b02-43c0-af08-b012ae6982be" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servleuse2_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servleuse2_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/servleuse2_war/servleuse2_war.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/servleuse2_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/servleuse2_war_exploded/WEB-INF/classes/pri/small/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/servleuse2_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/servleuse2_war_exploded/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servleuse2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pri/small/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pri/small/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="f103056f-5b02-43c0-af08-b012ae6982be" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -275,8 +254,16 @@
       <workItem from="1679321849866" duration="543000" />
       <workItem from="1679322396072" duration="369000" />
       <workItem from="1679323631248" duration="1027000" />
-      <workItem from="1679577805684" duration="1104000" />
+      <workItem from="1679577805684" duration="1512000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1679579954386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579954386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
